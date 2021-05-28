@@ -18,7 +18,7 @@ public class Stock {
     @Column(name = "price")
     private Double price;
 
-    @Column(name = "viriation")
+    @Column(name = "variation")
     private Double variation;
 
     @Column(name = "date")
